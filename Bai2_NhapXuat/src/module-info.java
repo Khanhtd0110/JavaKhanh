@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Bai2_NhapXuat {
+module Bai2_Nhapxuat {
 }
